@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "3c138436a0a7cdb5726e",
-    "url": "/react-portfolio/static/js/main.13ee5f78.chunk.js"
+    "revision": "5d96b08e963b3cec9c31",
+    "url": "/react-portfolio/static/js/main.07dd0eec.chunk.js"
   },
   {
     "revision": "94872cf7e81768d148a3",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/react-portfolio/static/media/weather.0beac7bc.jpg"
   },
   {
-    "revision": "5b81bc3f800aae001836c7d387529a8d",
+    "revision": "2afad59259eed7674e18d412e4b3bcc0",
     "url": "/react-portfolio/index.html"
   }
 ];
