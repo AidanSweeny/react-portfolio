@@ -13,10 +13,10 @@ function App() {
       <div>
       <Header />
       <Switch>
-        <Route exact path= "/react-portfolio">
+        <Route exact path= "/">
           <About />
         </Route>
-        <Route exact path="/react-portfolio/projects">
+        <Route exact path="/projects">
           <Projects />
         </Route>
         <Route>
