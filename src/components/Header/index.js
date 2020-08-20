@@ -9,7 +9,7 @@ class Header extends React.Component {
                 <Navbar.Brand href="/react-portfolio">Aidan Sweeny</Navbar.Brand>
                 <Nav className="mr-auto">
                     <Nav.Link href="/react-portfolio">About</Nav.Link>
-                    <Nav.Link href="/react-portfolio/projects">Projects</Nav.Link>
+                    <Nav.Link href="/projects">Projects</Nav.Link>
                 </Nav>
             </Navbar>
         )
