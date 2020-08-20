@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 
 const About = () => {
     return (
-        <h1>Hello</h1>
+        <h1>About</h1>
     );
 }
 

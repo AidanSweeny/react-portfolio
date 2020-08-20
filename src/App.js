@@ -13,7 +13,7 @@ function App() {
       <div>
       <Header />
       <Switch>
-        <Route exact path="/">
+        <Route exact path={["/about", "/"]}>
           <About />
         </Route>
         <Route exact path="/projects">
@@ -28,6 +28,5 @@ function App() {
     </Router>
   );
 }
-
 
 export default App;

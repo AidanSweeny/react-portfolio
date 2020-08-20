@@ -1,11 +1,15 @@
 import React from "react";
 
 
-class Project extends React.Component {
-    render() {
-        return (
-            <h2>Project</h2>
-        )
-    };
+function Project(props) {
+    return (
+        <div>
+            <h4>{props.title}</h4>
+            {/* <img href = {require(props.url)}></img> */}
+            <a href = {props.deloyed}>Deployed Application</a>
+            <a href = {props.repo}>Repository</a>
+        </div>
+    )
+
 }
 export default Project;
